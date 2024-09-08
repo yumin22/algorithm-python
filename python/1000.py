@@ -1,0 +1,3 @@
+a, b = map(int, input().split())
+print(a+b)
+# a, b 범위까지 지정해야되는 줄 알고 헤맸는데 아니었네...
